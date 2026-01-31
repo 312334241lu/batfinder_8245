@@ -51,5 +51,5 @@ app.*.map.json
 
 ios.*.AppDelegate.swift
 *.apk
-
+# Prueba
 /env.json
